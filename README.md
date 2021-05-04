@@ -5,7 +5,7 @@ I am Dustin Hendriks, a Technical-Computer-Science student from the Netherland. 
 I am a Windows Phone, Mac and Linux enthousiast and enjoy impulsively buying awesome (retro) hardware, such as consoles, netbooks, notebooks and other hardware.  
 
 ### Qualities
-Go-getter, flexible, analytical, results-oriented, motivated, studious
+- Go-getter, flexible, analytical, results-oriented, motivated, studious
 
 ### Skills
 - Java
@@ -33,14 +33,11 @@ Go-getter, flexible, analytical, results-oriented, motivated, studious
 https://www.efset.org/cert/BhaM9J
 
 ### URL's
-
-View my Tweakers.net profile:
+- View my Tweakers.net profile: 
 https://tweakers.net/gallery/731905/
-
-View my Stackoverflow profile:
+- View my Stackoverflow profile:
 https://stackoverflow.com/users/12959971/jetspiking
-
-View my LinkedIn profile:
+- View my LinkedIn profile:
 https://www.linkedin.com/in/dustinhendriks/
 
 <!--
