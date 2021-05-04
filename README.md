@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a Windows Phone, Mac and Linux enthousiast. I enjoy building and creating my own applications, along with DIY-projects. I like to share my applications and projects, here, on Github, or on Tweakers.net (popular Dutch tech-news website).
+
+### Skills
+
+
 <!--
 **jetspiking/jetspiking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
