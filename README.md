@@ -8,17 +8,8 @@ I am a Windows Phone, Mac and Linux enthousiast and enjoy impulsively buying awe
 - Go-getter, flexible, analytical, results-oriented, motivated, studious
 
 ### 📚 Skills
-- Java
-- C(++ / #)
-- UWP
-- JavaFX
-- Android
-- Windows Forms
-- JSON
-- XML
-- Shell Script
-- Linux
-- Arduino and ESP(32)
+- C++ - C# - Java
+- JavaFX - Atmega128 - JSON - OpenGL - 
 - Raspberry Pi (and similar boards like Orange Pi)
 - Hardware Interfacing
 - Technical Writing
