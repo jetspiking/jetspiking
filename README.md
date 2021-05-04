@@ -12,8 +12,10 @@ I am a Windows Phone, Mac and Linux enthousiast and enjoy impulsively buying awe
 - JavaFX  •UWP  •WPF  •Windows Forms
 - Atmega 128  •ESP(32)  •Arduino  •Raspberry Pi
 - JSON  •XML
-- OpenGL  •OpenCV
-- Technical Writing  •Hardware Interfacing
+- OpenGL 
+- OpenCV 
+- Technical Writing
+- Hardware Interfacing
 
 ### 📖 Experience
 - Internship at ```Grass Valley```
