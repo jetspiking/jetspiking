@@ -8,23 +8,23 @@ I am a Windows Phone, Mac and Linux enthousiast and enjoy impulsively buying awe
 - Go-getter, flexible, analytical, results-oriented, motivated, studious
 
 ### 📚 Skills
-- Java 
-- C(++ / #)
-- UWP
-- JavaFX
-- Android
-- Windows Forms
-- JSON
-- XML
-- Shell Script
-- Linux
-- Arduino and ESP(32)
-- Raspberry Pi (and similar boards like Orange Pi)
-- Hardware Interfacing
-- Technical Writing
+- ```Java```
+- ```C(++ / #)```
+- ```UWP```
+- ```JavaFX```
+- ```Android```
+- ```Windows Forms```
+- ```JSON```
+- ```XML```
+- ```Shell Script```
+- ```Linux```
+- ```Arduino and ESP(32)```
+- ```Raspberry Pi (and similar boards like Orange Pi)```
+- ```Hardware Interfacing```
+- ```Technical Writing```
 
 ### 📖 Experience
-- Internship at Grass Valley
+- Internship at ```Grass Valley```
 - Building and publishing multiple Open-Source applications
 - Repairing and maintaining hardware and electronics 
 
@@ -33,9 +33,9 @@ I am a Windows Phone, Mac and Linux enthousiast and enjoy impulsively buying awe
 https://www.efset.org/cert/BhaM9J
 
 ### ⏺ URL's
-- View my Tweakers.net profile: 
+- View my ```Tweakers.net``` profile: 
 https://tweakers.net/gallery/731905/
-- View my Stackoverflow profile:
+- View my ```Stackoverflow``` profile:
 https://stackoverflow.com/users/12959971/jetspiking
-- View my LinkedIn profile:
+- View my ```LinkedIn``` profile:
 https://www.linkedin.com/in/dustinhendriks/
