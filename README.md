@@ -2,7 +2,7 @@
 
 I am Dustin, a Technical-Computer-Science student from the Netherlands. I enjoy building and creating my own applications, along with DIY-projects. I like to share my applications and projects with the world.
 
-I am a Windows Phone, Mac and Linux enthousiast and enjoy impulsively buying awesome (retro) hardware, such as consoles, netbooks, notebooks and other hardware.  I like searching for the limitations of Hardware and Software, and if possible, vanquish these.   
+I am a Windows Phone, Mac and Linux enthousiast and enjoy impulsively buying awesome (retro) hardware, such as consoles, netbooks, notebooks and other hardware.  I like searching for the limitations of Hardware and Software, and if possible, solve those.   
 
 ### 👤 Qualities
 - Go-getter, flexible, analytical, results-oriented, motivated, studious
