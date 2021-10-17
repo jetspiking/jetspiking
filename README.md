@@ -35,3 +35,5 @@ https://tweakers.net/gallery/731905/
 https://stackoverflow.com/users/12959971/jetspiking
 - View my ```LinkedIn``` profile:
 https://www.linkedin.com/in/dustinhendriks/
+- View my ```GitHub``` profile:
+https://github.com/jetspiking
