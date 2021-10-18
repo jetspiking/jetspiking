@@ -1,10 +1,3 @@
-.
-
-![Dustin GitHub stats](https://github-readme-stats.vercel.app/api?username=jetspiking&show_icons=true&theme=nightowl)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jetspiking&theme=nightowl)
-
-.
 
 ### 📕 About Me  
 
@@ -45,3 +38,11 @@ https://stackoverflow.com/users/12959971/jetspiking
 https://www.linkedin.com/in/dustinhendriks/
 - View my ```GitHub``` profile:
 https://github.com/jetspiking
+
+.
+
+![Dustin GitHub stats](https://github-readme-stats.vercel.app/api?username=jetspiking&show_icons=true&theme=nightowl)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jetspiking&theme=nightowl)
+
+.
