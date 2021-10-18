@@ -1,4 +1,4 @@
-![Dustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jetspiking&show_icons=true&theme=nightowl)
+![Dustin GitHub stats](https://github-readme-stats.vercel.app/api?username=jetspiking&show_icons=true&theme=nightowl)
 
 ### 📕 About Me  
 
