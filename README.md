@@ -40,11 +40,7 @@ https://www.linkedin.com/in/dustinhendriks/
 https://github.com/jetspiking
 
 .
-
 ![Dustin GitHub stats](https://github-readme-stats.vercel.app/api?username=jetspiking&show_icons=true&theme=nightowl)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jetspiking&theme=nightowl)
-
 .
 
 ![](https://komarev.com/ghpvc/?username=jetspiking)
