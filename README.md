@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=jetspiking)
 
 ### 📕 About Me  
 
@@ -41,6 +42,3 @@ https://github.com/jetspiking
 
 
 <!--![Dustin GitHub stats](https://github-readme-stats.vercel.app/api?username=jetspiking&show_icons=true&theme=nightowl)-->
-
-
-![](https://komarev.com/ghpvc/?username=jetspiking)
