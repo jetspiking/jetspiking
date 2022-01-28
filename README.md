@@ -39,8 +39,6 @@ https://stackoverflow.com/users/12959971/jetspiking
 https://www.linkedin.com/in/dustinhendriks/
 - View my ```GitHub``` profile:
 https://github.com/jetspiking
-
-<div class="badge-base LI-profile-badge" data-locale="nl_NL" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dustinhendriks" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/dustinhendriks?trk=profile-badge">Dustin Hendriks</a></div>
               
 
 <!--![Dustin GitHub stats](https://github-readme-stats.vercel.app/api?username=jetspiking&show_icons=true&theme=nightowl)-->
