@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=jetspiking)
 
+---
+
 ### 📕 About Me  
 
 I am Dustin, a Technical-Computer-Science student from the Netherlands. I enjoy building and creating my own applications, along with DIY-projects. I like to share my applications and projects with the world.
