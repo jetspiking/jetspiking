@@ -24,11 +24,14 @@ I am a Windows Phone, Mac and Linux enthousiast and enjoy impulsively buying awe
 - Hardware Interfacing
 
 ### 📖 Experience
+- Internship at ```Applikon Biotechnology```
 - Internship at ```Grass Valley```
 - Building and publishing multiple Open-Source applications
 - Repairing and maintaining hardware and electronics 
 
 ### 🔖 Certificates
+- ```Basic Life Support (BLS)```:
+https://drive.google.com/file/d/1L6vjvEOvlIFCyuhdpiEAkL0SOH8HgbLb/view
 - ```EF SET``` English Certificate: 
 https://www.efset.org/cert/BhaM9J
 
