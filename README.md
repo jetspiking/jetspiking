@@ -12,19 +12,19 @@ I am a Windows Phone, Mac and Linux enthousiast and enjoy impulsively buying awe
 - Go-getter, flexible, analytical, results-oriented, motivated, studious
 
 ### 📚 Skills
-- C++  •C#  •Java
-- JavaFX  •UWP  •WPF  •Windows Forms
-- Atmega 128  •ESP(32)  •Arduino  •Raspberry Pi
-- JSON  •XML
-- MQTT
-- MongoDB
-- OpenGL 
-- OpenCV 
-- Technical Writing
-- Hardware Interfacing
+- •C++  •C# •Assembly •Java •Python
+- •WPF •UWP •JavaFX •Electron
+- •LaTeX
+- •OpenGL •OpenCV
+- •JSON •XML
+- •Documentation •Reverse engineering •Automata theory •Computer architecture
+- •Atmega •Espressif
 
 ### 📖 Experience
+- Software engineer at ```Consafe Logistics```
+- Tech editor at ```Tweakers```
 - Internship at ```Applikon Biotechnology```
+- Teached computer science during minor at ```RSG Goeree Overflakkee```
 - Internship at ```Grass Valley```
 - Building and publishing multiple Open-Source applications
 - Repairing and maintaining hardware and electronics 
