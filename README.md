@@ -4,9 +4,9 @@
 
 ### 📕 About Me  
 
-I am Dustin, a Technical-Computer-Science student from the Netherlands. I enjoy building and creating my own applications, along with DIY-projects. I like to share my applications and projects with the world.
+I am Dustin, a software engineer from the Netherlands. I enjoy building and creating my own applications, along with DIY-projects. I like to share my applications and projects with the world.
 
-I am a Windows Phone, Mac and Linux enthousiast and enjoy impulsively buying awesome (retro) hardware, such as consoles, netbooks, notebooks, phones and other hardware.  I like searching for the limitations of Hardware and Software, and if possible, solve those.   
+I am a Windows Phone, Mac and Linux enthousiast and enjoy impulsively buying awesome (retro) hardware, such as consoles, netbooks, notebooks, phones and other hardware.  I like searching for the limitations of hardware and software, and if possible, solve those.   
 
 ### 👤 Qualities
 - Go-getter, flexible, analytical, results-oriented, motivated, studious
@@ -24,7 +24,7 @@ I am a Windows Phone, Mac and Linux enthousiast and enjoy impulsively buying awe
 - Software engineer at ```Consafe Logistics```
 - Tech editor at ```Tweakers```
 - Internship at ```Applikon Biotechnology```
-- Teached computer science during minor at ```RSG Goeree Overflakkee```
+- Teached computer science at ```RSG Goeree Overflakkee```
 - Internship at ```Grass Valley```
 - Building and publishing multiple Open-Source applications
 - Repairing and maintaining hardware and electronics 
