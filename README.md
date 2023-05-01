@@ -49,5 +49,4 @@ https://github.com/jetspiking
               
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=jetspiking&theme=nightowl&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jetspiking&layout=compact&theme=radical&hide_border=true"/>
 
-<iframe src="https://github.com/sponsors/jetspiking/card" title="Sponsor jetspiking" height="225" width="600" style="border: 0;"></iframe>
 <!--![Dustin GitHub stats](https://github-readme-stats.vercel.app/api?username=jetspiking&show_icons=true&theme=nightowl)-->
