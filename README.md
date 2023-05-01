@@ -4,7 +4,7 @@
 
 ### 📕 About Me  
 
-I am Dustin, a software engineer from the Netherlands. I enjoy building and creating my own applications, along with DIY-projects. I like to share my applications and projects with the world.
+I am a software engineer from the Netherlands. I enjoy building and creating my own applications, along with DIY-projects. I like to share my applications and projects with the world.
 
 I am a Windows Phone, Mac and Linux enthousiast and enjoy impulsively buying awesome (retro) hardware, such as consoles, netbooks, notebooks, phones and other hardware.  I like searching for the limitations of hardware and software, and if possible, solve those.   
 
@@ -48,4 +48,6 @@ https://github.com/jetspiking
 ---
               
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=jetspiking&theme=nightowl&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jetspiking&layout=compact&theme=radical&hide_border=true"/>
+
+<iframe src="https://github.com/sponsors/jetspiking/card" title="Sponsor jetspiking" height="225" width="600" style="border: 0;"></iframe>
 <!--![Dustin GitHub stats](https://github-readme-stats.vercel.app/api?username=jetspiking&show_icons=true&theme=nightowl)-->
