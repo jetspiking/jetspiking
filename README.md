@@ -21,12 +21,12 @@ I am a Windows Phone, Mac and Linux enthousiast and enjoy impulsively buying awe
 - •Atmega •Espressif
 
 ### 📖 Experience
-- Software engineer at ```Consafe Logistics```
+- Software engineer at ```Consafe Logistics``` (current)
 - Tech editor at ```Tweakers```
 - Internship at ```Applikon Biotechnology```
 - Teached computer science at ```RSG Goeree Overflakkee```
 - Internship at ```Grass Valley```
-- Building and publishing multiple Open-Source applications
+- Building and publishing multiple open source applications
 - Repairing and maintaining hardware and electronics 
 
 ### 🔖 Certificates
