@@ -6,7 +6,7 @@
 
 Hello! I'm a software engineer from the Netherlands with a passion for building and creating applications and DIY projects. I love exploring the limits of hardware and software and sharing my journey with the world.
 
-For a comprehensive view of my work and projects, please visit my portfolio: [jetspiking.com](https://jetspiking.com).
+For a comprehensive view of my work and projects, please visit Jetspiking's Libre Software: [jetspiking.com](https://jetspiking.com).
 
 ---
               
