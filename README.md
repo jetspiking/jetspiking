@@ -4,7 +4,7 @@
 
 ### 📕 About Me
 
-Hello! I'm a software engineer from the Netherlands with a passion for building and creating applications and DIY projects. I love exploring the limits of hardware and software and sharing my journey with the world.
+Hello! I'm a software engineer and technical writer from the Netherlands.
 
 For a comprehensive view of my work and projects, please visit Jetspiking's Libre Software: [jetspiking.com](https://jetspiking.com).
 
